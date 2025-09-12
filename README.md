@@ -1,0 +1,2 @@
+# vp-static
+vp-static
