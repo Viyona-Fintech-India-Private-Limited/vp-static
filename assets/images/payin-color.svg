@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="34.288" height="41.934" viewBox="0 0 34.288 41.934">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#60f"/>
+      <stop offset="0.124" stop-color="#6f03fc"/>
+      <stop offset="0.331" stop-color="#890cf3"/>
+      <stop offset="0.595" stop-color="#b219e6"/>
+      <stop offset="0.902" stop-color="#eb2cd3"/>
+      <stop offset="1" stop-color="#f3c"/>
+    </linearGradient>
+  </defs>
+  <g id="growth" transform="translate(0)">
+    <path id="Path_35" data-name="Path 35" d="M209.608,90.137v5.9a.692.692,0,0,0,.721.686h1.915l-3.312,3.642-3.311-3.642h1.7a.692.692,0,0,0,.721-.686V91.251c.481-.344,1.081-.717,1.562-1.114Zm0,0" transform="translate(-180.932 -90.137)" fill="url(#linear-gradient)"/>
+    <path id="Path_36" data-name="Path 36" d="M28.831,91.287v4.941a.692.692,0,0,0,.721.686H31.5l-3.311,3.642-3.311-3.642h1.674a.692.692,0,0,0,.721-.686V90.137a11.05,11.05,0,0,0,1.562,1.151Zm0,0" transform="translate(-21.899 -90.137)" fill="url(#linear-gradient)"/>
+    <path id="Path_37" data-name="Path 37" d="M17.246,153.781A17.144,17.144,0,1,0,34.39,170.925,17.164,17.164,0,0,0,17.246,153.781Zm0,31.661a14.516,14.516,0,1,1,14.516-14.516A14.517,14.517,0,0,1,17.246,185.442Zm0,0" transform="translate(-0.102 -146.135)" fill="url(#linear-gradient)"/>
+    <path id="Path_38" data-name="Path 38" d="M47.048,187.652a13.075,13.075,0,1,0,13.075,13.075A13.075,13.075,0,0,0,47.048,187.652Zm2.974,8.746H52.4a.721.721,0,1,1,0,1.442H50.022a5.357,5.357,0,0,1-5.263,4.685H43.509l6.338,5.949a.684.684,0,0,1,.029.988.724.724,0,0,1-1.019.027L41.2,202.259a.676.676,0,0,1-.175-.762.686.686,0,0,1,.67-.414h3.063a3.95,3.95,0,0,0,3.8-3.244H41.7a.721.721,0,0,1,0-1.442h6.865a3.844,3.844,0,0,0-3.8-3.123H41.7a.721.721,0,0,1,0-1.442H52.4a.721.721,0,0,1,0,1.442H48.392a5.411,5.411,0,0,1,1.63,3.123Zm0,0" transform="translate(-29.904 -175.937)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

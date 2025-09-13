@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="47" height="47" viewBox="0 0 47 47">
+  <g id="paymentlink" transform="translate(-0.5 -0.5)">
+    <g id="Group_1" data-name="Group 1">
+      <path id="Path_1" data-name="Path 1" d="M10,3.4,12.9.5H.5V12.9L3.4,10l3.7,3.8,6.7-6.7Z" fill="#fff"/>
+    </g>
+    <g id="Group_2" data-name="Group 2">
+      <path id="Path_2" data-name="Path 2" d="M38,3.4,35.1.5H47.5V12.9L44.6,10l-3.7,3.8L34.2,7.1Z" fill="#fff"/>
+    </g>
+    <g id="Group_3" data-name="Group 3">
+      <path id="Path_3" data-name="Path 3" d="M10,44.6l2.9,2.9H.5V35.1L3.4,38l3.7-3.8,6.7,6.7Z" fill="#fff"/>
+    </g>
+    <g id="Group_4" data-name="Group 4">
+      <path id="Path_4" data-name="Path 4" d="M38,44.6l-2.9,2.9H47.5V35.1L44.6,38l-3.7-3.8-6.7,6.7Z" fill="#fff"/>
+    </g>
+    <path id="Path_5" data-name="Path 5" d="M24,8.5A15.5,15.5,0,1,0,39.5,24,15.45,15.45,0,0,0,24,8.5Zm8.1,7.4H29.6a5.716,5.716,0,0,1,1.5,3h1v2h-1a6,6,0,0,1-5.9,5H22l8.5,8.6L29,36,19.1,26H17.9V24h7.2A3.99,3.99,0,0,0,29,21H15.9V19H29a3.99,3.99,0,0,0-3.9-3H15.9V14H32.1Z" fill="#fff"/>
+  </g>
+</svg>

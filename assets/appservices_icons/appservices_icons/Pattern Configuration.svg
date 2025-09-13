@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="510" height="510.001" viewBox="0 0 510 510.001">
+  <g id="Pattern_Configuration" data-name="Pattern Configuration" transform="translate(0 0.001)">
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="60" cy="60" r="60" transform="translate(390)" fill="#fff"/>
+    <circle id="Ellipse_2" data-name="Ellipse 2" cx="60" cy="60" r="60" transform="translate(0 195)" fill="#fff"/>
+    <path id="Path_5" data-name="Path 5" d="M450,195a60.108,60.108,0,0,0-58.1,45H313.1A60.229,60.229,0,0,0,270,196.9V118.1A60,60,0,1,0,196.9,45H118.1a60,60,0,1,0,0,30h78.8A60.229,60.229,0,0,0,240,118.1v78.8A60,60,0,1,0,313.1,270h78.8a59.644,59.644,0,0,0,6.435,15.454L285.454,398.333a60.07,60.07,0,1,0,21.213,21.213L419.546,306.667A59.989,59.989,0,1,0,450,195Z" fill="#fff"/>
+    <circle id="Ellipse_3" data-name="Ellipse 3" cx="60" cy="60" r="60" transform="translate(0 390)" fill="#fff"/>
+    <circle id="Ellipse_4" data-name="Ellipse 4" cx="60" cy="60" r="60" transform="translate(390 390)" fill="#fff"/>
+  </g>
+</svg>

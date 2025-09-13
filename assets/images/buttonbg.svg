@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="104" height="29" viewBox="0 0 104 29">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.95" y1="0.078" x2="0.62" y2="0.647" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#10e9cc"/>
+      <stop offset="1" stop-color="#42ccb9"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_255" data-name="Group 255" transform="translate(-1533 -558)">
+    <g id="Group_166" data-name="Group 166">
+      <rect id="Rectangle_53" data-name="Rectangle 53" width="104" height="29" rx="14.5" transform="translate(1533 558)" fill="#42ccb9"/>
+      <path id="Path_93" data-name="Path 93" d="M14.5,0h44L50,29H14.5a14.5,14.5,0,0,1,0-29Z" transform="translate(1533 558)" fill="url(#linear-gradient)"/>
+    </g>
+    <g id="Group_163" data-name="Group 163" transform="translate(1545 564.157)">
+      <text id="Success" transform="translate(23.367 12.842)" fill="#fff" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">Success</tspan></text>
+      <path id="check" d="M17.964,5.6a.749.749,0,0,1,.072,1.123L9.049,15.939a.9.9,0,0,1-1.221.046l-5.2-4.525a.753.753,0,0,1-.077-1.074.91.91,0,0,1,1.244-.1l4.035,3.354a.9.9,0,0,0,1.207-.058l7.731-7.921a.905.905,0,0,1,1.2-.065Z" transform="translate(-2.36 -2.206)" fill="#fff" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>
