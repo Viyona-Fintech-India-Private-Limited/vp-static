@@ -427,6 +427,11 @@ table#datatable-basic thead.table-primary,.table thead{ position: sticky; top: 0
 table#datatable-basic thead.table-primary th,.table thead th{ padding: 12px 10px !important; text-align: left !important; border-bottom: 1px solid #d6d6d6;   background: #fafafa !important; color: #222 !important;
   font-size: 12px !important; font-weight: 700 !important;}
 table#datatable-basic tbody tr td,.table tbody tr td{ padding: 12px 10px; text-align: left; border-bottom: 1px solid #d6d6d6; font-weight: 400; font-size: 14px; color: #51464B;}
+/* table#datatable-basic tbody tr td, .table tbody tr td, table tr:nth-child(even){ background:none !important;} */
+table.table tr:hover{
+  cursor: pointer !important;          
+  background-color: #f0f0f0 !important;
+}
 .main-dashboard .card.custom-card .card-header,.main-dashboard .card.custom-card .card-body{ background:none !important; border-radius:0 !important; margin:0 !important;}
 .main-dashboard .card.custom-card .card-header .common-card-title{  font-weight: 700; 
   font-size:clamp(12px,0.833vw,16px); line-height:clamp(20px,1.25vw,24px);  color: #B20153; text-transform: uppercase;
